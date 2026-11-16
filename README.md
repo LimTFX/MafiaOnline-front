@@ -1,4 +1,4 @@
 # MafiaOnline-front
-MafiaOnline-multiplayer-front
+MafiaOnline-multiplayer-frontend
 
 Сайт для многопользовательской онлайн игры в настольную Мафию
